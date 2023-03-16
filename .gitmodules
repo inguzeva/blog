@@ -1,0 +1,8 @@
+[submodule "inguzeva.github.io"]
+	path = inguzeva.github.io
+	url = git@github.com:inguzeva/inguzeva.github.io.git
+	branch = main
+[submodule "public"]
+	path = public
+	url = git@github.com:inguzeva/inguzeva.github.io.git
+	branch = main
